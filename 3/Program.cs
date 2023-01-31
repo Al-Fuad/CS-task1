@@ -6,11 +6,11 @@ public class Program
     {
         int num = Convert.ToInt32(Console.ReadLine());
         
-        if ( num % 2 == 0){
-            Console.WriteLine("The number is even.");
+        if ( num < 0){
+            Console.WriteLine("The number is negative.");
         }
         else{
-            Console.WriteLine("The number is odd.");
+            Console.WriteLine("The number is positive.");
         }
     }
 }
