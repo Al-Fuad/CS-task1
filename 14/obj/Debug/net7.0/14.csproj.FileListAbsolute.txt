@@ -1,0 +1,15 @@
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/bin/Debug/net7.0/14
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/bin/Debug/net7.0/14.deps.json
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/bin/Debug/net7.0/14.runtimeconfig.json
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/bin/Debug/net7.0/14.dll
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/bin/Debug/net7.0/14.pdb
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.csproj.AssemblyReference.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.AssemblyInfoInputs.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.AssemblyInfo.cs
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.csproj.CoreCompileInputs.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.dll
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/refint/14.dll
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.pdb
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/14.genruntimeconfig.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/14/obj/Debug/net7.0/ref/14.dll
