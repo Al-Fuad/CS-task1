@@ -1,0 +1,15 @@
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/bin/Debug/net7.0/19
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/bin/Debug/net7.0/19.deps.json
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/bin/Debug/net7.0/19.runtimeconfig.json
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/bin/Debug/net7.0/19.dll
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/bin/Debug/net7.0/19.pdb
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.csproj.AssemblyReference.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.AssemblyInfoInputs.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.AssemblyInfo.cs
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.csproj.CoreCompileInputs.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.dll
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/refint/19.dll
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.pdb
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/19.genruntimeconfig.cache
+/Users/nur/Desktop/Learn Codes/Learn C#/HomeWork/19/obj/Debug/net7.0/ref/19.dll
